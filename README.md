@@ -29,7 +29,3 @@ Carbon Slayer's frontend is a FlutterFlow-based mobile application that connects
 4. Deploy the app using **FlutterFlow’s deployment options**.
 
 ---
-
-
-## 📩 Contact
-🔗 **GitHub:**(https://github.com/your-repo/carbon-slayer-frontend)
