@@ -30,14 +30,6 @@ Carbon Slayer's frontend is a FlutterFlow-based mobile application that connects
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check out our [issues](https://github.com/your-repo/carbon-slayer-frontend/issues) page.
-
----
 
 ## 📩 Contact
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [Carbon Slayer Frontend Repo](https://github.com/your-repo/carbon-slayer-frontend)
+🔗 **GitHub:**(https://github.com/your-repo/carbon-slayer-frontend)
